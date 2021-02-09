@@ -28,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RampTex:
-        m_Texture: {fileID: 2800000, guid: f7843d838452cc14a8061e6b16cf7de4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8bd2726ccdde5eb4181bec02acae8660, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RimLightSampler:
